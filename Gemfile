@@ -70,3 +70,6 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem "shopify_app" # create shopify apps
+gem "shopify_api" #request rest or graphql api + create tokens + register weebhooks
