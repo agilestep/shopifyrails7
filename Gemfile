@@ -73,3 +73,4 @@ end
 
 gem "shopify_app" # create shopify apps
 gem "shopify_api" #request rest or graphql api + create tokens + register weebhooks
+gem "figaro"
